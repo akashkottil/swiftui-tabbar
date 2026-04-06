@@ -2,6 +2,10 @@
 
 A lightweight Swift package that lets you use **separate active and inactive icon images** in SwiftUI's native `TabView` — powered by UIKit's `UITabBarItem.image` and `UITabBarItem.selectedImage` under the hood.
 
+## Demo
+
+https://github.com/akashkottil/swiftui-tabbar/raw/main/demo.mov
+
 ## The Problem
 
 SwiftUI's `.tabItem` doesn't natively support separate images for selected vs unselected states. You either get:
