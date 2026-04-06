@@ -4,7 +4,9 @@ A lightweight Swift package that lets you use **separate active and inactive ico
 
 ## Demo
 
-https://github.com/akashkottil/swiftui-tabbar/raw/main/demo.mov
+<p align="center">
+  <img src="demo.gif" width="300" alt="NativeTabBar Demo" />
+</p>
 
 ## The Problem
 
